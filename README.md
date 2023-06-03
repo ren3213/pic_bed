@@ -8,6 +8,7 @@ git push origin
 
 ```base
 https://cdn.staticaly.com/gh/ren3213/pic_bed@main/img/bz2.webp
+https://pic-bed-2tr.pages.dev/img/shoujiBZ1.webp
 ```
 
 [bz2.webp (500×281) (staticaly.com)](https://cdn.staticaly.com/gh/ren3213/pic_bed@main/img/bz2.webp)
