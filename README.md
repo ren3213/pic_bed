@@ -7,6 +7,7 @@ git push origin
 例子
 
 ```base
+github上的地址
 https://cdn.staticaly.com/gh/ren3213/pic_bed@main/img/bz2.webp
 https://pic-bed-2tr.pages.dev/img/shoujiBZ1.webp
 // 风筝图床
